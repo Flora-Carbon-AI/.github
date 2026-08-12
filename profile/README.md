@@ -10,8 +10,8 @@ Verra VCS, Gold Standard, carbon project developer, India, Sundarbans.
 
 <a href="https://floracarbon.ai">
   <picture>
-    <!-- Dark mode: padded white-background logo so the transparent art stays legible -->
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/flora-logo-badge.png" />
+    <!-- Dark mode: same logo composited onto a padded white background (via images.weserv.nl) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=ssl:floracarbon.ai/media/flora-logo.png&bg=ffffff&pad=30&w=520" />
     <!-- Light mode (and fallback): original transparent logo -->
     <img src="https://floracarbon.ai/media/flora-logo.png" alt="Flora Carbon AI — digital MRV for forestry and blue carbon projects" width="260" />
   </picture>
